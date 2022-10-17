@@ -1,0 +1,15 @@
+.form__span {
+    
+    text-decoration:underline dotted;
+}
+
+
+.form__span-info {
+   color: grey;
+   
+}
+
+.btn__form-color {
+    background-color: rgb(150, 201, 62) !important;
+    border: none !important;
+}

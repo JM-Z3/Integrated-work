@@ -1,0 +1,17 @@
+
+.info__img {
+    width: 100%;
+}
+
+.info__right {
+    background-color: rgb(52, 58, 64);
+}
+
+.info__h3, .info__p {
+    color: white;
+}
+
+.info__p {
+    font-size: 12px;
+}
+

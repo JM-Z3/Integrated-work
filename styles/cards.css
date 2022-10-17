@@ -1,0 +1,22 @@
+.cards__title_p {
+    font-size: 12px;
+    padding-top: 10px;
+    font-weight: 400;
+}
+
+.cards__title_span {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.btn__color-react {
+    color: white !important;
+    margin-left: 5px !important;
+    border-radius: 5px !important;
+
+}
+
+.btn__rest {
+    margin-left: 5px !important;
+    border-radius: 5px !important;
+}
